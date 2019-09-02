@@ -3,7 +3,7 @@ Title: Market Data
 Version: 0.1.0
 Date: 2019-08-30
 Authors@R: person("Rodrigo","Ribeiro", email = "medeirossss@gmail.com", role = c("aut", "cre"))
-Depends: R (>= 3.5.3)
+Depends: R (>= 3.5.1)
 Description: Create economic competitiveness matrix data. Main purpose is to, analytically, demonstrate through functions the elaboration of graphs to measure market competitiveness to observe the main influences within a given scenario.
 License: GPL-2
 Encoding: UTF-8
