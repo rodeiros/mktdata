@@ -13,8 +13,6 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 Imports:
-    ggplot2 (>=3.2.0)
-    digest (>=2.0-0)
-Suggests:
-    knitr (>= 1.24)
-    rmarkdown (>=1.10)
+    ggplot2
+    digest
+
