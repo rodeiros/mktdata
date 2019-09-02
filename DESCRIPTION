@@ -1,10 +1,10 @@
 Package: mktdata
 Title: Market Data
 Version: 0.1.0
-Date: 2019/08/30
+Date: 2019-08-30
 Authors@R: 
     person("Rodrigo",
-           "Medeiros Ribeiro",
+           "Ribeiro",
 	   email = "medeirossss@gmail.com"
            role = c("aut", "cre")
 Depends: R (>= 3.5.3)
